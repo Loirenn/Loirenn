@@ -1,4 +1,9 @@
-### Hi there 👋
+###Merhaba!
+
+- 🔨 Adım Berk.
+- 📫 Bazı bağlantılar:
+  - 📚 [Void Development](https://discord.gg/Qdbq2v8FM4)
+
 
 <!--
 **Loirenn/Loirenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
