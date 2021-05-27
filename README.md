@@ -8,7 +8,7 @@
 - 📪 Şuanlık tek ulaşabileceğiniz yer **Discord.** Zaman zaman başka platformlar eklenebilir.
 <h1 align="center"><img src="https://image.flaticon.com/icons/png/512/3308/3308178.png" width="30px"> Bağlantılar</h1>
 
-- 📚 [Void Development](https://discord.gg/Qdbq2v8FM4)
+- 📚 [Discord Profilim](https://discord.com/users/796414422822289439)
 <h1 align="center"><img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" width="30px"> Github Stats</h1>
 
 <h1 align="left">
