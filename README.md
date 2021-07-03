@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"> Merhaba</h1>
 
-- 💻 Adım `Berk`. `16` yaşındayım. 
+- 💻 Adım `Berk`. `17` yaşındayım. 
 - 🔌 Uzun zamandır **Discordda** bulunuyorum. Zaman zaman **Github** ile uğraşacağım.
 <h1 align="center"><img src="https://www.covercompare.com/images/icon-phone.gif" width="30px"> Bana ulaş</h1>
 
