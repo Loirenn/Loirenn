@@ -5,7 +5,7 @@
 <h2><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/magnifying-glass-tilted-right_1f50e.png" /> About</h2>
 
 - My name is Berk. I was born in Turkey and I continue to live. I am high school student. I am passionate about programming.
-- TypeScript is my favorite programming language.
+- Loiren 💙 TypeScript
 - Personal website: [loiren.xyz](https://loiren.xyz)
 
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/gear_2699-fe0f.png" /> Technologies I use</h2>
