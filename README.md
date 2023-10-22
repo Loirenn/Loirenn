@@ -5,7 +5,7 @@
 
 - Full-Stack Developer. My name is Berk, I live in Turkey and I am a high school student.
 - Loiren 💙 TypeScript
-- More: [loirenn.now.sh](https://loirenn.now.sh)
+- More: [loiren.now.sh](https://loiren.now.sh)
 
 <h2 width="100%"><img width="25" src="https://em-content.zobj.net/thumbs/72/apple/354/laptop_1f4bb.png" /> Technologies I use</h2>
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vue,svelte,nextjs,nuxtjs,nodejs,mongodb,vscode,git,java,css,html,netlify,tailwindcss,webpack,express,ps,ae,discord&theme=dark" />
